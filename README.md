@@ -1,2 +1,1 @@
-# HouseMate-Helper
- Class Project
+Anurag Kuppala
